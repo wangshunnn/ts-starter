@@ -1,4 +1,4 @@
-# My Ts Starter
+# Ts Starter Template
 
 - ts
 - pnpm
