@@ -2,7 +2,7 @@
   "name": "ts-starter",
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "pnpm@9.5.0",
+  "packageManager": "pnpm@10.8.0",
   "description": "my ts-node-pnpm starter",
   "author": "Soon Wang <wangshunnn@gmail.com>",
   "license": "MIT",
